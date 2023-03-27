@@ -1,5 +1,5 @@
 {
-  "name": "dc-bot",
+  "name": "new",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord-chat-gpt": "^2.0.1",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
   }
 }
